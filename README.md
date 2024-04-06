@@ -15,7 +15,9 @@ https://drive.google.com/drive/folders/1eBNixcIilwmFxQZ6nSFsL3ZXxoLilGZR?usp=sha
 6. Putty 설치후 접속
    localhost:22
 7. Install Visual Studio Code
-8. Install Extensions
+8. Install Extensions (Spring Boot Extension Pack, Docker, Java, YML, Maven...)
+9. Connect to Remote SSH
+
 
 ### Multple Projects on Visual Studio Code
 
