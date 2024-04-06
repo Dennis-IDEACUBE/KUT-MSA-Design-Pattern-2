@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1eBNixcIilwmFxQZ6nSFsL3ZXxoLilGZR?usp=sha
    192.168.15.0/24
 4. Import VirtualBox image(Dockersvr.ova)
 5. user1, 1234
-6. Putty 설치후 접속
+6. Connect after installing Putty
    localhost:22
 7. Install Visual Studio Code
 8. Install Extensions (Spring Boot Extension Pack, Docker, Java, YML, Maven...)
