@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/1eBNixcIilwmFxQZ6nSFsL3ZXxoLilGZR?usp=sha
 ### Lab environment settings
 
 1. VirtualBox
-2. VirtualBox 잡기설정(ctrl+alt)
+2. VirtualBox Host Key on VM (ctrl+alt)
 3. Setting Network(NatNetwork)
    192.168.15.0/24
 4. Import VirtualBox image(Dockersvr.ova)
