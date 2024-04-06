@@ -14,6 +14,8 @@ https://drive.google.com/drive/folders/1eBNixcIilwmFxQZ6nSFsL3ZXxoLilGZR?usp=sha
 5. user1, 1234
 6. Putty 설치후 접속
    localhost:22
+7. Install Visual Studio Code
+8. Install Extensions
 
 ### Multple Projects on Visual Studio Code
 
